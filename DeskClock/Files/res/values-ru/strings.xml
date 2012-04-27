@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="elapsed_time_format">(+%s)</string>
   <string name="app_label">Часы</string>
@@ -38,7 +37,6 @@
   <string name="analog_gadget">Часы</string>
   <string name="settings">Настройки</string>
   <string name="alarm_in_silent_mode_title">Включать всегда</string>
-  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
   <string name="auto_silence_title">Автовыключение</string>
   <string name="auto_silence_summary">Сигнал отключится через %d мин.</string>
@@ -69,6 +67,8 @@
   <string name="loading_ringtone">Загрузка мелодии звонка...</string>
   <string name="control_set_alarm">Установить будильник</string>
   <string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
+  <string name="common_settings">Общие</string>
+  <string name="alarm_settings">Сигнал</string>
   <string name="worldclock_title">Мировое время</string>
   <string name="stopwatch_title">Секундомер</string>
   <string name="timer_title">Таймер</string>
@@ -77,7 +77,6 @@
   <string name="menu_alarmclock_edit">Изменить будильник</string>
   <string name="menu_delete">Удалить</string>
   <string name="menu_edit_systemtime">Настройка часов</string>
-  <string name="menu_alarm_setting">Настройки будильника</string>
   <string name="delete_timezone_title">Предупреждение!</string>
   <string name="delelte_selected_timezone">Вы уверены, что хотите удалить?</string>
   <string name="wait_when_operating_data_message">Обработка данных, подождите</string>
@@ -91,6 +90,7 @@
   <string name="pause">Пауза</string>
   <string name="reset">Сброс</string>
   <string name="lap">Круг</string>
+  <string name="timer_continue">Продолжить</string>
   <string name="elapsed_hour">%d часов</string>
   <string name="worldclock_empty_text">Нет мировых часов</string>
   <string name="alarmclock_empty_text">Нет будильников</string>
@@ -105,5 +105,6 @@
   <string name="timer_hour">час</string>
   <string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
   <string name="timer_message">таймер на %1$d минут</string>
-  <string name="timer_is_running">таймер запущен</string>
+  <string name="timer_tutorial">Сдвиньте по часовой стрелке</string>
+  <item type="string" name="APKTOOL_DUMMY_006a">false</item>
 </resources>

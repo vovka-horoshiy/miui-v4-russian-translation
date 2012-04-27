@@ -21,7 +21,7 @@
     <string name="delete_dialog_title">Хотите удалить текущую запись?</string>
     <string name="overwrite_dialog_title">%s уже существует. Вы хотите перезаписать запись?</string>
     <string name="preferences_title">Настройки</string>
-    <string name="pref_title_record_type">Тип файла</string>
+    <string name="pref_title_record_type">Формат записи</string>
     <string name="prefDialogTitle_recordType">Пожалуйста, выберите тип файла</string>
     <string name="prefDefault_recordType">audio/3gpp</string>
     <string name="pref_title_enable_high_quality">Высокое качество</string>
@@ -32,7 +32,7 @@
     <string name="notification_stopped">Запись остановлена</string>
     <string name="notification_warning">Мало места (меньше чем для %d минут)...</string>
     <string name="record_list">Список записей</string>
-    <string name="sd_card_not_available">SD-карта не доступна</string>
+    <string name="sd_card_not_available">SD-карта недоступна</string>
     <string name="call_record">Запись вызова</string>
     <string name="open_file_explorer">Открыть Файлы</string>
     <string name="no_file">Нет записей</string>

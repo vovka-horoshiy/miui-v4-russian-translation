@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="application_name">Браузер</string>
   <string name="choose_upload">Выберите файл для загрузки</string>
@@ -11,8 +10,6 @@
   <string name="tab_most_visited">Часто посещаемые</string>
   <string name="tab_history">История</string>
   <string name="tab_snapshots">Сохраненные страницы</string>
-  <string name="tab_yellowpage">Интересы</string>
-  <string name="tab_quicklinks">Быстрые ссылки</string>
   <string name="added_to_bookmarks">Добавлено в закладки.</string>
   <string name="removed_from_bookmarks">Удалено из закладок.</string>
   <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
@@ -250,6 +247,7 @@
   <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
   <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
+  <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
   <string name="loadSuspendedTitle">Нет подключения</string>
   <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>
@@ -357,6 +355,12 @@
   <string name="accessibility_state_incognito">Страница в режиме инкогнито</string>
   <string name="accessibility_state_frozen">Сохраненная страница</string>
   <string name="accessibility_transition_navscreen">Управление вкладками</string>
+  <string name="tab_yellowpage">Желтые страницы</string>
+  <string name="tab_quicklinks">Быстрые ссылки</string>
+  <string name="pref_content_night_read_mode">Включить ночной режим</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закрытии последней вкладки</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_summary">Check this to exit browser on closing last tab in navigation screen. Uncheck to show homepage</string>
+  <string name="url_hint">Поиск или URL</string>
   <string name="file_picker_new_folder">Новая папка</string>
   <string name="file_picker_sdcard_not_found">SD-карта не найдена, пожалуйста, проверьте, подключено ли устройство к ПК</string>
   <string name="export_bookmark_sucess">Закладки с успехом экспортированы на SD-карту!</string>
@@ -374,4 +378,15 @@
   <string name="contextmenu_download_image_as">Сохранить изображение как</string>
   <string name="pref_ua_title">Настройки UserAgent</string>
   <string name="pref_ua_string">Определние браузера как</string>
+  <string name="pref_ua_mione_entry">MiOne</string>
+  <string name="pref_ua_mione_value">6</string>
+  <string name="dump_dom_tree">Dump DOM tree to file</string>
+  <string name="dump_render_tree">Dump render tree to file</string>
+  <string name="dump_display_tree">Dump display tree to file</string>
+  <string name="pref_reading_mode_enabled_title">Режим чтения</string>
+  <string name="pref_reading_mode_enabled_title_summary">Для этого режима должен быть включен JavaScript</string>
+  <string name="menu_exit">Выход</string>
+  <string name="exit_browser_warning">Закрыть браузер?</string>
+  <string name="tab_opened_background">Вкладка открыта в фоне</string>
+  <string name="tab_closed">Вкладка закрыта</string>
 </resources>

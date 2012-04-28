@@ -105,6 +105,7 @@
   <string name="timer_hour">час</string>
   <string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
   <string name="timer_message">таймер на %1$d минут</string>
-  <string name="timer_tutorial">Сдвиньте по часовой стрелке</string>
+  <string name="timer_tutorial">Сдвиньте по 
+  часовой стрелке</string>
   <item type="string" name="APKTOOL_DUMMY_006a">false</item>
 </resources>

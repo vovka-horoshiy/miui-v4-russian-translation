@@ -388,7 +388,7 @@
   <string name="exit_edit_mode">Отмена</string>
   <string name="check_all">Всё</string>
   <string name="check_nothing">Ничего</string>
-  <string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщение(ий)?</string>
+  <string name="batch_delete_confirm_dialog_message">Вы уверены, что хотите удалить выбранные сообщения?</string>
   <string name="batch_delete_thread_confirm_dialog_message">Удалить %1$s цепочку(и)?</string>
   <string name="batch_deleting_progress_message">Удаление...</string>
   <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>

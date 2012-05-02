@@ -17,7 +17,7 @@
   <string name="fw_all_day">Весь день</string>
   <string name="fw_period">Период</string>
   <string name="fw_advanced_settings">Расширенные настройки</string>
-  <string name="anti_stranger_title">Режим \"Свои\"</string>
+  <string name="anti_stranger_title">"Режим 'Свои'"string>
   <string name="anti_stranger_summary">Отклонять неизвестные номера</string>
   <string name="anti_private_title">Перехват звонков без номера</string>
   <string name="anti_private_summary">Перехват вызовов у которых номер телефона не определился</string>

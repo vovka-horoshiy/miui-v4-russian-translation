@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="conversation_style">bubble</string>
@@ -20,9 +20,9 @@
   <string name="menu_add_address_to_contacts">Добавить в контакты: %s</string>
   <string name="menu_call">Позвонить</string>
   <string name="menu_search">Поиск</string>
-  <string name="menu_delete_all">Удалить все цепочки</string>
-  <string name="menu_delete">Удалить цепочку</string>
-  <string name="menu_view">Просмотреть цепочку</string>
+  <string name="menu_delete_all">Удалить все переписки</string>
+  <string name="menu_delete">Удалить переписку</string>
+  <string name="menu_view">Просмотреть переписку</string>
   <string name="menu_debug_dump">ОТЛАДКА ДАМПА</string>
   <string name="refreshing">Обновление...</string>
   <string name="has_draft">Черновик</string>
@@ -136,20 +136,20 @@
   <string name="pref_summary_mms_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
   <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
   <string name="pref_summary_sms_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
-  <string name="pref_summary_auto_delete">Удалять старые сообщения по достижении макс. количества</string>
-  <string name="pref_summary_delete_limit">Сообщений в цепочке: %1$s</string>
+  <string name="pref_summary_auto_delete">Удалять старые сообщения по достижении максимального количества</string>
+  <string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
   <string name="pref_title_mms_delivery_reports">Отчеты о доставке</string>
   <string name="pref_title_mms_read_reports">Отчеты о прочтении</string>
   <string name="pref_title_sms_delivery_reports">Отчеты о доставке</string>
   <string name="pref_title_auto_delete">Удалять старые</string>
-  <string name="pref_title_sms_delete">Макс. количество SMS</string>
-  <string name="pref_title_mms_delete">Макс. количество MMS</string>
+  <string name="pref_title_sms_delete">Максимальное количество SMS</string>
+  <string name="pref_title_mms_delete">Максимальное количество MMS</string>
   <string name="pref_title_notification_enabled">Уведомления</string>
   <string name="pref_summary_notification_enabled">Отображать уведомления о сообщениях в строке состояния</string>
   <string name="pref_title_notification_vibrateWhen">Вибросигнал</string>
   <string name="pref_summary_notification_vibrateWhen">Вибросигнал при получении уведомления</string>
   <string name="pref_title_notification_ringtone">Выбрать рингтон</string>
-  <string name="pref_messages_to_save">Установить макс. кол-во сообщений в цепочке для хранения</string>
+  <string name="pref_messages_to_save">Установить максимальное количествово сообщений в переписке для хранения</string>
   <string name="prefDefault_vibrateWhen">Никогда</string>
   <string name="prefDefault_vibrate_true">Всегда</string>
   <string name="prefDefault_vibrate_false">Никогда</string>
@@ -161,12 +161,12 @@
   <string name="to_label">Кому:</string>
   <string name="confirm_dialog_title">Предупреждение!</string>
   <string name="confirm_dialog_locked_title">Предупреждение!</string>
-  <string name="confirm_delete_conversation">Вся цепочка будет удалена</string>
-  <string name="confirm_delete_all_conversations">Все цепочки будут удалены</string>
+  <string name="confirm_delete_conversation">Удалить эту переписку?</string>
+  <string name="confirm_delete_all_conversations">Удалить все переписки?</string>
   <string name="confirm_delete_group_message">Сообщения будут удалены</string>
-  <string name="confirm_delete_message">Вы уверены, что хотите удалить это сообщение?</string>
-  <string name="confirm_delete_locked_message">Вы уверенны, что хотите удалить избранное сообщение?</string>
-  <string name="delete_unlocked">Удалить заблокированные сообщения</string>
+  <string name="confirm_delete_message">Удалить это сообщение?</string>
+  <string name="confirm_delete_locked_message">Удалить избранное сообщение?</string>
+  <string name="delete_unlocked">Включая избранные</string>
   <string name="delete">Удалить</string>
   <string name="select_conversations">Выбрать цепочки</string>
   <string name="no_conversations">Нет сообщений</string>
@@ -271,10 +271,10 @@
   <string name="pref_mms_clear_search_history_title">Очистить историю поиска</string>
   <string name="pref_mms_clear_search_history_summary">Не показывать предыдущие сообщения в поле поиска</string>
   <string name="save">Сохранить</string>
-  <string name="storage_limits_title">Ограничивать количество сообщений</string>
-  <string name="storage_limits_message">Ограничить число сообщений, сохраняемых в цепочке?</string>
-  <string name="storage_limits_setting">Установить ограничения</string>
-  <string name="storage_limits_setting_dismiss">Нет ограничений</string>
+  <string name="storage_limits_title">Внимание!</string>
+  <string name="storage_limits_message">Ограничить число сообщений, сохраняемых в переписке?</string>
+  <string name="storage_limits_setting">ОК</string>
+  <string name="storage_limits_setting_dismiss">Отмена</string>
   <string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
   <string name="sending_message">Отправка...</string>
   <string name="pick_too_many_recipients">Слишком много получателей</string>
@@ -376,7 +376,7 @@
   <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
   <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI / SL)</string>
   <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
-  <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
+  <string name="pref_summary_show_recent_contacts">При создании нового сообщения показать список последних контактов</string>
   <string name="pref_key_append_signature_title">Подпись</string>
   <string name="pref_key_append_signature_summary">Добавить подпись к сообщению</string>
   <string name="pref_key_edit_signature_title">Изменить подпись</string>
@@ -388,17 +388,17 @@
   <string name="exit_edit_mode">Отмена</string>
   <string name="check_all">Всё</string>
   <string name="check_nothing">Ничего</string>
-  <string name="batch_delete_confirm_dialog_message">Вы уверены, что хотите удалить выбранные сообщения?</string>
-  <string name="batch_delete_thread_confirm_dialog_message">Удалить %1$s цепочку(и)?</string>
+  <string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения?</string>
+  <string name="batch_delete_thread_confirm_dialog_message">Удалить выбранные переписки?</string>
   <string name="batch_deleting_progress_message">Удаление...</string>
-  <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
+  <string name="batch_deleting_message_progress_message">Удаление...</string>
   <string name="attach_subject">Тема</string>
   <string name="delete_subject">Удалить тему</string>
   <string name="messaging_intent_label">Сообщения</string>
-  <string name="multi_select_title_conversation_init">Пожалуйста, выберите цепочки</string>
-  <string name="multi_select_title_message_init">Пожалуйста выберите сообщение(я)</string>
-  <string name="multi_select_title_conversation">Выбрано %1$s цепочек</string>
-  <string name="multi_select_title_message">Выбрать %1$s сообщение(я)</string>
+  <string name="multi_select_title_conversation_init">Выберите переписки</string>
+  <string name="multi_select_title_message_init">Выберите сообщение(я)</string>
+  <string name="multi_select_title_conversation">Выбрано переписок: %1$s</string>
+  <string name="multi_select_title_message">Выбрано сообщений: %1$s</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="loading_contacts">Загрузка контактов...</string>
   <string name="prepare_send">Подготовка к отправке...</string>

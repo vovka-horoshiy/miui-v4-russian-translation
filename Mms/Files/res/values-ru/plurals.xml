@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
-        <item quantity="one">Цепочка будет удалена.</item>
+        <item quantity="other">Удалить выбранные цепочки?</item>
+        <item quantity="one">Удалить эту переписку?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s с.</item>
-        <item quantity="one">%s с.</item>
-        <item quantity="few">%s с.</item>
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">Поиск \"%2$s\" (%1$s)</item>

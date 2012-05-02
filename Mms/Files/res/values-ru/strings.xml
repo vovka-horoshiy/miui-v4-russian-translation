@@ -31,7 +31,7 @@
   <string name="view_slideshow">Просмотреть слайд-шоу</string>
   <string name="view_message_details">Подробности</string>
   <string name="view_delivery_report">Просмотреть отчет</string>
-  <string name="delete_message">Удалить</string>
+  <string name="delete_message">ОК</string>
   <string name="expire_on">Срок истекает: %s</string>
   <string name="kilobyte">КБ</string>
   <string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
@@ -167,7 +167,7 @@
   <string name="confirm_delete_message">Удалить это сообщение?</string>
   <string name="confirm_delete_locked_message">Удалить избранное сообщение?</string>
   <string name="delete_unlocked">Включая избранные</string>
-  <string name="delete">Удалить</string>
+  <string name="delete">ОК</string>
   <string name="select_conversations">Выбрать цепочки</string>
   <string name="no_conversations">Нет сообщений</string>
   <string name="loading_conversations">Загрузка цепочек...</string>
@@ -384,7 +384,7 @@
   <string name="pref_key_signature_hint">Введите подпись</string>
   <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
   <string name="send_signature_confirm_dialog_message">Вы не ввели текст содержания, вы хотите отправить его?</string>
-  <string name="enter_edit_mode">Удалить</string>
+  <string name="enter_edit_mode">ОК</string>
   <string name="exit_edit_mode">Отмена</string>
   <string name="check_all">Всё</string>
   <string name="check_nothing">Ничего</string>

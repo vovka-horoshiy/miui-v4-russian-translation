@@ -43,7 +43,7 @@
   <string name="menu_new_contact_action_bar">Добавить</string>
   <string name="menu_new_group_action_bar">Новая группа</string>
   <string name="menu_new_favorite_action_bar">Новый</string>
-  <string name="splitConfirmation_title">Внимаиние!</string>
+  <string name="splitConfirmation_title">Внимание!</string>
   <string name="splitConfirmation">Разделить этот контакт?</string>
   <string name="menu_joinAggregate">Объединить</string>
   <string name="titleJoinContactDataWith">Объединить контакты</string>
@@ -52,7 +52,7 @@
   <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
   <string name="separatorJoinAggregateAll">Все контакты</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
-  <string name="deleteConfirmation_title">Предупреждение!</string>
+  <string name="deleteConfirmation_title">Удалить записи</string>
   <string name="menu_set_ring_tone">Задать рингтон</string>
   <string name="menu_redirect_calls_to_vm">Только голос. почта</string>
   <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>

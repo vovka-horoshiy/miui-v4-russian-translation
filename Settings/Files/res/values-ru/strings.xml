@@ -1640,8 +1640,8 @@
     <string name="timezone_settings">Часовой пояс</string>
 	<string name="security_privacy_settings_title">Безопасность и конфиденциальность</string>
     <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
-    <string name="unlock_set_enter_system">Access system directly</string>
-    <string name="unlock_set_enter_system_summary">"System lockscreen theme won't be used after enabling it. Light up the screen to access system directly"</string>
+    <string name="unlock_set_enter_system">Прямой доступ</string>
+    <string name="unlock_set_enter_system_summary">"При использовании этой функции экран блокировки будет отключен"</string>
     <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения вы будете должны ввести пароль</string>
     <string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, вы можете повторить сканирование или добавить сеть вручную</string>
     <string name="manually_add_network">Добавить сеть</string>
@@ -1689,4 +1689,6 @@ Please check validity of certificates"</string>
     <string name="search_label">Настройки</string>
     <string name="search_hint">Настройки поиска</string>
     <string name="search_description">Настройки поиска</string>
+	<string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
+    <string name="frequently_fragment_tempty">Часто используемые элементы будут отображаться здесь</string>
 </resources>

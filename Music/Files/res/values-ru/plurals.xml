@@ -9,23 +9,23 @@
         <item quantity="one">Альбомов: %d</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">песни</item>
+        <item quantity="other">песни(ен)</item>
         <item quantity="one">песня</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">альбомы</item>
+        <item quantity="other">альбома(ов)</item>
         <item quantity="one">альбом</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">исполнители</item>
+        <item quantity="other">исполнителя(ей)</item>
         <item quantity="one">исполнитель</item>
     </plurals>
     <plurals name="Nplaylists">
-        <item quantity="other">плейлисты</item>
+        <item quantity="other">плейлиста(ов)</item>
         <item quantity="one">плейлист</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">" папки"</item>
+        <item quantity="other">" папки(ок)"</item>
         <item quantity="one">" папка"</item>
     </plurals>
     <plurals name="Ntracks_batch_selection">
@@ -65,7 +65,7 @@
         <item quantity="one">" категория"</item>
     </plurals>
     <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d песен</item>
+        <item quantity="other">%1$s, %2$d песни(ен)</item>
         <item quantity="one">%1$s, %2$d песня</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
@@ -73,7 +73,7 @@
         <item quantity="one">Было удалено песен: 1</item>
     </plurals>
     <plurals name="Nnowplaying">
-        <item quantity="other">Песни проигрываются</item>
-        <item quantity="one">Песня проигрывается</item>
+        <item quantity="other">песни(ен) проигрывается</item>
+        <item quantity="one">песня проигрывается</item>
     </plurals>
 </resources>

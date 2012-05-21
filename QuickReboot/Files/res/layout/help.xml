@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="#ff75b832" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="帮助" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="必要条件" />
+        <TextView android:autoLink="web|email" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="@string/help_prerequisites" />
+        <TextView android:autoLink="web|email" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/help_prerequisites2" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="重启模式" />
+        <TextView android:autoLink="web|email" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="有四种重启模式可供选择: 热重启模式、正常重启模式、重启到 Recovery 模式和重启到 BootLoader 模式。\n正常重启模式使用标准的重启方式，即先关闭设备，再从 Scratch 重新启动；热重启模式只重启 Android 的图形 Shell，因此可以缩短一半的重启时间；重启到 Recovery 模式和 BootLoader 模式是为高级用户准备的。" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="设置" />
+        <TextView android:autoLink="web|email" android:id="@id/help_content1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/help_settings" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:autoLink="web|email" android:id="@id/help_content2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="窗口小部件" />
+        <TextView android:autoLink="web|email" android:id="@id/help_content1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="有两种类型的窗口小部件可供选择: 正常重启和热重启，点击窗口小部件即可执行重启。" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="小贴士" />
+        <TextView android:autoLink="web|email" android:id="@id/help_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/help_tip" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="已知问题" />
+        <TextView android:autoLink="web|email" android:id="@id/help_issues" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/help_issues" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, reboot!</string>
+    <string name="app_name">Hot Reboot</string>
+    <string name="about_market"><u>Beansoft Apps</u></string>
+    <string name="help_prerequisites">To run this app your device has to be <b>rooted</b>". Rooting means that you (and apps) can get full access to the underlying system. A good article about rooting and the pros and cons of it can be found here: http://www.talkandroid.com/7686-what-is-rooting-and-why-should-i-do-it-the-pros-cons-of-android-rooting/ "</string>
+    <string name="help_prerequisites2">" Besides a rooted device the following must be installed: "<b>Busybox</b> and <b>SuperUser</b>. Normally these programs are installed during rooting but sometimes one of these (or both) are missing. If at least one of these programs is missing the app will only show a spinning wheel without rebooting at all. Both Busybox and SuperUser can be found on the Android Market. If you have <b>Titanium Backup</b>" installed, you still have to install BusyBox from the market (although Titanium Backup comes with it's own BusyBox).
+ "<b>"Choose menu -> install busybox if you don't have busybox installed"</b>" "</string>
+    <string name="help_settings">"In the settings menu you will find options for correcting issues that some devices have after a hot reboot. The wifi reconnection option is for devices that need a long time to reestablish a wifi connection after a hot reboot (for example the Samsung Galaxy S). The \"reestablish 4G connection\" is for devices that have a problem with a 4G connection after a reboot. Checking this option will correct this.
+ The confirmation dialog options are for turning on/off the confirmation dialogs when clicking on a desktop widget."</string>
+    <string name="help_issues">"* If after a update the app doesn't work anymore, "<i>uninstall</i>" the app and install it again. 
+ * It can happen that on some devices/roms/kernels the normal and recovery reboot command doesn't work. (Although the hot reboot command is working pefectly well)
+ * It is known that also the hot reboot command is failing on some (in most cases customized) roms and/or kernels. In that case one can try another rom and/or kernel
+ * Checking one of the connection options in the settingsmenu will slow down the hot reboot process. Check these options only if you need them. "</string>
+    <string name="help_tip">If a media scanner is running at reboot you can use a little app called <i>Rescan Media Root</i> to turn off the media scanner. According to the author of the app the app will work on most devices. The app can be found on the Market. (Visit the link in the app description page for more info)</string>
+</resources>

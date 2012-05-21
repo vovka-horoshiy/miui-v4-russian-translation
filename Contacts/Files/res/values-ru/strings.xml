@@ -623,7 +623,8 @@
   <string name="scan_duplicate">Поиск дубликатов...</string>
   <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
   <string name="scan_duplicate_message">Полных совпадений: %1$d</string>
-  <string name="merge_contact_message">Частичных совпадений: %1$d, будет объединено: %2$d</string>
+  <string name="merge_contact_message">Частичных совпадений: %1$d
+Будет объединено: %2$d</string>
   <string name="delete_duplicate">ОК</string>
   <string name="delete_duplicate_message">Объединение...</string>
   <string name="label_no_duplicate_contacts">Отлично! Нет дубликатов контактов на данный момент!</string>

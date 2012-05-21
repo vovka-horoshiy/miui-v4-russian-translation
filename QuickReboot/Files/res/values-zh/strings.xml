@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">热重启</string>
+    <string name="about_market"><u>Beansoft 应用</u></string>
+    <string name="help_prerequisites">设备必须要有 ROOT 权限才能运行本程序，这将意味着您（和应用程序）可以获得访问系统的最高权限。您可以在 http://bit.ly/9Ja14j 中阅读有关 ROOT 优缺点的介绍。</string>
+    <string name="help_prerequisites2">"除了一部已 ROOT 的设备，您还必须安装 Busybox 和 SuperUser。通常情况下，这些程序在 ROOT 的同时也一并安装了，但有的可能缺少了其中一个（或全部）。一旦缺少这两个程序中的任意一个，热重启将只会显示进度而不会重启。Busybox 和 SuperUser 都可以在 Android 电子市场中找到。即使您安装了钛备份，您仍然需要从电子市场安装 BusyBox（尽管钛备份使用的是自己的 BusyBox）。
+如果您还没有安装 BusyBox，可以按 MENU 键 > 安装 BusyBox。"</string>
+    <string name="help_settings">"设置菜单中包含某些设备因使用热重启而导致的问题的解决选项。“快速重新连接 WLAN”选项适用于热重启后需要很长的时间才能建立 WLAN 连接的设备（如三星 Galaxy S），“重新建立 4G 连接”选项适用于热重启后 4G 连接出现问题的设备（如 HTC EVO 4G），勾选这些选项可以尝试解决这些问题。
+“确认对话框”选项适用于启用/禁用点击窗口小部件时的确认对话框。"</string>
+    <string name="help_issues">* 如果在更新程序后无法运行，请 <i>卸载</i>" 程序并重新安装。
+* 程序在某些设备/ROM/内核上，可能会有正常重启和重启到 Recovery 模式命令无法运行的问题（但热重启命令可以完美运行）。
+* 热重启命令在某些 ROM（大多数为自制 ROM）和/或内核上也无法运行，遇到这种情况，您可以尝试其他的 ROM 和/或内核。
+* 勾选设置菜单中的任意一个有关连接的选项将会降低热重启的速度，请您在需要的时候再勾选。"</string>
+    <string name="help_tip">重启的时候如果正在运行媒体扫描，您可能需要用到一款名为 <i>Rescan Media Root</i> 的小程序来关闭媒体扫描。根据作者的说明，它可以在大多数的设备上运行，该程序可以在电子市场中找到（访问应用程序说明页的链接获得更新信息）。</string>
+</resources>

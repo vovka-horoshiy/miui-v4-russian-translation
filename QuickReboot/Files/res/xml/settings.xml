@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:textColor="#ff000000"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="热重启设置">
+        <CheckBoxPreference android:title="快速重新连接 WLAN" android:key="wifi" android:summary="热重启后，如果设备需要很长的时间才能建立 WLAN 连接，请勾选此项" android:defaultValue="false" />
+        <CheckBoxPreference android:id="@id/setSystemCB" android:title="重新建立 4G 连接" android:key="4G" android:summary="热重启后，如果设备的 4G 连接出现问题，请勾选此项" android:defaultValue="false" />
+        <CheckBoxPreference android:title="热重启前暂停" android:key="extra_pause" android:summary="如果 4G 仍有问题，请同时勾选此项和“重新建立 4G 连接”" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="确认对话框">
+        <CheckBoxPreference android:title="热重启确认" android:key="show_confirmation_hot" android:summary="点击热重启窗口小部件时显示确认对话框" android:defaultValue="true" />
+        <CheckBoxPreference android:title="正常重启确认" android:key="show_confirmation_cold" android:summary="点击正常重启窗口小部件时显示确认对话框" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

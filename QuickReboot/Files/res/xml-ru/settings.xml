@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:textColor="#ff000000"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Горячая перезагрузка">
+        <CheckBoxPreference android:title="Быстрое переподключение WLAN" android:key="wifi" android:summary="Включите, если есть проблемы с подключением к WLAN" android:defaultValue="false" />
+        <CheckBoxPreference android:id="@id/setSystemCB" android:title="Восстановление связи 4G" android:key="4G" android:summary="Включите, если есть проблема с соединением 4G" android:defaultValue="false" />
+        <CheckBoxPreference android:title="Пауза перед горячей перезагрузкой" android:key="extra_pause" android:summary="Если проблема осталась, то включите эту настройку и Восстановление связи 4G" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Окно подтверждения">
+        <CheckBoxPreference android:title="Горячая перезагрузка" android:key="show_confirmation_hot" android:summary="Запрашивать подтверждение при выполнении горячей перезагрузки с виджета" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Обычная перезагрузка" android:key="show_confirmation_cold" android:summary="Запрашивать подтверждение при выполнении обычной перезагрузки с виджета" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

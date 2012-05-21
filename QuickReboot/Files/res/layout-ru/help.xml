@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="#ff75b832" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="Помощь" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Требования" />
+        <TextView android:autoLink="web|email" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="@string/help_prerequisites" />
+        <TextView android:autoLink="web|email" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/help_prerequisites2" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Режим перезагрузки" />
+        <TextView android:autoLink="web|email" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="Есть четыре режима перезагрузки: нормальная и горячая перезагрузка, Recovery и Bootloader. \n В режиме нормальной перезагрузки телефон сначала будет выключен, а затем включен, при горячем перезапуске будет перезапущена только графическая оболочка Android, что сокращает время загрузки в половину, перезагрузка в режиме Recovery и Bootloader нужна для опытных пользователей." />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Создатели" />
+        <TextView android:autoLink="web|email" android:id="@id/help_content1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/help_settings" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:autoLink="web|email" android:id="@id/help_content2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Виджеты" />
+        <TextView android:autoLink="web|email" android:id="@id/help_content1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="Есть два типа виджетов на выбор: нормальная и горячая перезагрузка. Нажмите на виджет для выполнения перезагрузки." />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Советы" />
+        <TextView android:autoLink="web|email" android:id="@id/help_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="@string/help_tip" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Известные проблемы" />
+        <TextView android:autoLink="web|email" android:id="@id/help_issues" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/help_issues" />
+    </LinearLayout>
+</ScrollView>

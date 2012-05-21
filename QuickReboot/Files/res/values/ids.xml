@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="about_market">false</item>
+    <item type="id" name="layout_cold">false</item>
+    <item type="id" name="image_cold">false</item>
+    <item type="id" name="text_cold">false</item>
+    <item type="id" name="txt">false</item>
+    <item type="id" name="cb">false</item>
+    <item type="id" name="btnOK">false</item>
+    <item type="id" name="btnCancel">false</item>
+    <item type="id" name="help_content1">false</item>
+    <item type="id" name="help_content2">false</item>
+    <item type="id" name="help_tip">false</item>
+    <item type="id" name="help_issues">false</item>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="RadioGroup01">false</item>
+    <item type="id" name="radiobtQuickReboot">false</item>
+    <item type="id" name="radiobtReboot">false</item>
+    <item type="id" name="radiobtRecoveryReboot">false</item>
+    <item type="id" name="radiobtBootloaderReboot">false</item>
+    <item type="id" name="btnReboot">false</item>
+    <item type="id" name="txt2">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="setSystemCB">false</item>
+    <item type="id" name="menu_help">false</item>
+    <item type="id" name="menu_busybox">false</item>
+    <item type="id" name="menu_settings">false</item>
+    <item type="id" name="menu_about">false</item>
+</resources>

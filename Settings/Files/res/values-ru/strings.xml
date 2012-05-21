@@ -282,7 +282,8 @@
     <string name="crypt_keeper_encrypt_summary">Запрос числового PIN-кода или пароля для дешифрования при каждом включении телефона</string>
     <string name="crypt_keeper_encrypted_summary">Зашифровано</string>
     <string name="crypt_keeper_desc">"Шифрование доступно для аккаунтов, настроек, загруженных приложений и их данных, а также для мультимедийных и прочих файлов. После шифрования данных телефона при каждом его включении необходимо будет вводить числовой PIN-код или пароль, чтобы выполнить дешифрование данных. Единственный способ отключить шифрование – сброс настроек, в результате которого все данные будут потеряны.
-Шифрование займет не менее одного часа. Перед его запуском необходимо подключить зарядное устройство и не отключать его до окончания операции. В случае прерывания шифрования будут потеряны все данные или часть из них."</string>
+
+	Шифрование займет не менее одного часа. Перед его запуском необходимо подключить зарядное устройство и не отключать его до окончания операции. В случае прерывания шифрования будут потеряны все данные или часть из них."</string>
     <string name="crypt_keeper_button_text">Зашифровать телефон</string>
     <string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку.</string>
     <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку.</string>
@@ -296,6 +297,7 @@
     <string name="crypt_keeper_enter_password">Введите пароль</string>
     <string name="crypt_keeper_failed_title">Сбой шифрования</string>
     <string name="crypt_keeper_failed_summary">"Данные на вашем телефоне больше недоступны из-за прерванного шифрования.
+
 Чтобы продолжить использовать устройство, выполните сброс до заводских настроек. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии."</string>
     <string name="lock_settings_picker_title">Тип блокировки</string>
     <string name="backup_lock_settings_picker_title">Доп. способ блокировки</string>
@@ -432,6 +434,7 @@
     <string name="android_beam_disabled_summary">Недоступно, так как отключена связь малого радиуса действия</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"Когда включена эта функция, данные приложений можно передавать на другие устройства с поддержкой связи малого радиуса действия. Например, отправлять страницы браузера, видео YouTube, контакты и другие сведения.
+
 Просто разместите устройства поблизости (например, совместите их задние панели) и коснитесь экрана. Передаваемые данные зависят от приложения."</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
@@ -780,18 +783,21 @@
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены.</string>
     <string name="master_clear_title">Сброс настроек</string>
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
-    <string name="master_clear_desc">"Будут удалены все данные из внутренней памяти устройства, в том числе:
-Ваш аккаунт Google
-Настройки/данные системы и приложений
-Загруженные приложения"</string>
+    <string name="master_clear_desc">"Будут удалены все данные из "<b>внутренней памяти устройства</b>", в том числе::
+
+"<li>Ваш аккаунт Google</li>"
+"<li>Настройки/данные системы и приложений</li>"
+"<li>Загруженные приложения</li></string>
     <string name="master_clear_accounts">"
+
 В настоящее время вы выполнили вход в следующие аккаунты:
 "</string>
-    <string name="master_clear_desc_also_erases_external">"Музыка	
-Фото
-Другие данные"</string>
+    <string name="master_clear_desc_also_erases_external"><li>Music</li>"
+"<li>Фото</li>"
+"<li>Другие данные</li></string>
     <string name="master_clear_desc_erase_external_storage">"
-Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить SD-карту."</string>
+
+Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить "<b>SD-карту</b>.</string>
     <string name="erase_external_storage">Очистить SD-карту</string>
     <string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
     <string name="master_clear_button_text">Сбросить настройки телефона</string>
@@ -903,6 +909,7 @@
     <string name="next_button_label">Далее</string>
     <string name="lock_title">Обеспечение безопасности телефона</string>
     <string name="lock_intro_message">"Чтобы никто, кроме вас, не мог воспользоваться вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. 
+
 Чтобы начать, нажмите \"Далее\"."</string>
     <string name="manageapplications_settings_title">Управление приложениями</string>
     <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
@@ -1117,7 +1124,8 @@
     <string name="accessibility_speak_password_title">Озвучивать пароли</string>
     <string name="accessibility_touch_exploration_title">Изучение касанием</string>
     <string name="accessibility_touch_exploration_summary">"Функция \"Изучение касанием\" позволяет прослушивать или просматривать описание элементов, которых вы касаетесь.
- Эта функция предназначена для пользователей с нарушением зрения."</string>
+
+Эта функция предназначена для пользователей с нарушением зрения."</string>
     <string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
@@ -1339,6 +1347,7 @@
     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\".</string>
     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут...</string>
     <string name="wifi_setup_description_connected">"Нажмите <b>Далее</b>" для продолжения установки.
+
 Нажмите "<b>Назад</b> для подключения к другой сети Wi-Fi."</string>
     <string name="time_zone_auto_stub">Выбрать временную зону</string>
     <string name="accessibility_sync_enabled">Синхронизация включена</string>
@@ -1448,6 +1457,7 @@
     <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика.</string>
     <string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
     <string name="data_usage_app_restrict_dialog">"Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.
+
 Более подходящие параметры можно найти в настройках этих приложений."</string>
     <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
     <string name="data_usage_cycle_editor_title">Удаление статистики</string>
@@ -1457,13 +1467,14 @@
     <string name="data_usage_limit_editor_title">Лимитирование трафика</string>
     <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
     <string name="data_usage_limit_dialog">"Когда лимит трафика будет исчерпан, передача данных по сетям %1$s прекратится.
+
 Старайтесь не достигать лимита, так как оператор и устройство могут учитывать трафик по-разному."</string>
     <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
     <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
-    <string name="data_usage_sweep_warning">"Предупреждение
-^1^2"</string>
-    <string name="data_usage_sweep_limit">"Лимит
-^1^2"</string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">Предупреждение</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">Лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
     <string name="data_usage_total_during_range">Трафик за период %2$s: %1$s</string>

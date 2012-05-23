@@ -631,8 +631,8 @@
   <string name="description_target_answer">Правильный вариант</string>
   <string name="description_target_send_sms">Отправить SMS</string>
   <string name="description_target_decline">Отклонить</string>
-  <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
-  <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
+  <string name="voicemail_notification_vibrate_when_title">Вибрация</string>
+  <string name="voicemail_notification_vibarte_when_dialog_title">Вибрация</string>
   <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="add_button_miui">Добавить</string>
   <string name="always_enable_mms_miui">Всегда получать MMS</string>
@@ -679,7 +679,7 @@
   <string name="caller_id_title_miui">Скрытый номер</string>
   <string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
   <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
-  <string name="call_forwarding_settings_miui">Настройки переадресации вызова</string>
+  <string name="call_forwarding_settings_miui">Переадресация</string>
   <string name="calling_via_template_miui">"Звонок через ^1
 "<b>^2</b></string>
   <string name="call_log_number_limit_miui">Ограничение списка вызова</string>
@@ -701,7 +701,7 @@
   <string name="call_settings_category_miui">Настройка вызова</string>
   <string name="call_settings_miui">Вызовы</string>
   <string name="call_title_redialing_with_times_miui">Есть %d раз(а) повторного набора</string>
-  <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>
+  <string name="call_waiting_sum_miui">Сообщять о входящих вызовах при разговоре</string>
   <string name="card_title_forwarded_incoming_call_miui">Вызов переадресован</string>
   <string name="carrier_related_setting_catory_miui">Операторские настройки</string>
   <string name="cdma_system_select_choices_auto_miui">Автоматически</string>
@@ -740,8 +740,8 @@
   <string name="connect_disconnect_vibrate_weak_miui">Слабо вибрировать</string>
   <string name="contacts_icon_label_miui">Контакты</string>
   <string name="count_of_persons_in_conference_miui">Всего %d людей</string>
-  <string name="countrycode_alert_message_warning_miui">Код города, который вы ввели возможно не верен, вы хотите продолжить?</string>
-  <string name="countrycode_alert_message_wrong_miui">Код города, который вы ввели не верен. Попробуйте снова</string>
+  <string name="countrycode_alert_message_warning_miui">Код города, который вы ввели возможно неверен, вы хотите продолжить?</string>
+  <string name="countrycode_alert_message_wrong_miui">Код города, который вы ввели неверен. Попробуйте снова</string>
   <string name="countrycode_alert_title_miui">Внимание!</string>
   <string name="crystaltalk_summary_miui">Оптимизация аудио-профиля при разговоре</string>
   <string name="crystaltalk_title_miui">Настройка \"CrystalTalk\"</string>

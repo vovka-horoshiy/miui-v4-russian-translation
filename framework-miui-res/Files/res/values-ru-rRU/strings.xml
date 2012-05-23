@@ -372,11 +372,11 @@
 
 Настройки -> Система -> Кнопки и включите Закрыть приложение при."</string>
     <string name="force_exit_message">Приложение \"%1$s\" было закрыто</string>
-    <string name="global_action_toggle_privacy_mode">Гость</string>
-    <string name="global_action_privacy_mode_on_status">Режим гостя включен</string>
-    <string name="global_action_privacy_mode_on_toast">Режим гостя включен - сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
-    <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
-    <string name="global_action_privacy_mode_off_status">Режим гостя отключен</string>
+    <string name="global_action_toggle_privacy_mode">Внимание!</string>
+    <string name="global_action_privacy_mode_on_status">Режим \"Гость\" включен</string>
+    <string name="global_action_privacy_mode_on_toast">Режим \"Гость\" включен - сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
+    <string name="global_action_privacy_mode_dialog_message">В режиме \"Гость\" сообщения, журнал вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
+    <string name="global_action_privacy_mode_off_status">Режим \"Гость\" отключен</string>
     <string name="delete">Удалить</string>
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить все</string>

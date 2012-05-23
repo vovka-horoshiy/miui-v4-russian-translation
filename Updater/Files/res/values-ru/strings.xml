@@ -37,7 +37,7 @@
   <string name="apply_update_dialog_update_button">Обновление</string>
   <string name="apply_update_dialog_cancel_button">Отмена</string>
   <string name="cancel_download_buton_text">Отмена</string>
-  <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
+  <string name="confirm_download_cancelation_dialog_message">Отменить загрузку обновления?</string>
   <string name="dialog_yes">Да</string>
   <string name="dialog_no">Нет</string>
   <string name="dialog_ok">OK</string>

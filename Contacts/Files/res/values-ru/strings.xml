@@ -627,7 +627,7 @@
 Будет объединено: %2$d</string>
   <string name="delete_duplicate">ОК</string>
   <string name="delete_duplicate_message">Объединение...</string>
-  <string name="label_no_duplicate_contacts">Отлично! Нет дубликатов контактов на данный момент!</string>
+  <string name="label_no_duplicate_contacts">Дубликаты контактов объединены!</string>
   <string name="quit_dialog_confirm_title">Отменить объединение?</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="raw_contact_list_title">Этот контакт содержит %1$d не обработанных контактов. Нажмите для выбора и редактирования контакта</string>

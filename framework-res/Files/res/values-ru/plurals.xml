@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_seconds_ago">
-        <item quantity="other">%d с. назад</item>
-        <item quantity="one">1 секунду назад</item>
+        <item quantity="other">%d сек. назад</item>
+        <item quantity="one">1 сек. назад</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d мин. назад</item>
-        <item quantity="one">1 минуту назад</item>
+        <item quantity="one">1 мин. назад</item>
     </plurals>
     <plurals name="num_hours_ago">
-        <item quantity="other">%d ч. назад</item>
+        <item quantity="other">%d часа(ов) назад</item>
         <item quantity="one">1 час назад</item>
     </plurals>
     <plurals name="last_num_days">
@@ -20,15 +20,15 @@
         <item quantity="one">вчера</item>
     </plurals>
     <plurals name="in_num_seconds">
-        <item quantity="other">через %d с.</item>
-        <item quantity="one">через 1 секунду</item>
+        <item quantity="other">через %d сек.</item>
+        <item quantity="one">через 1 сек.</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">через %d мин.</item>
-        <item quantity="one">через 1 минуту</item>
+        <item quantity="one">через 1 мин.</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">через %d ч.</item>
+        <item quantity="other">через %d часа(ов)</item>
         <item quantity="one">через 1 час</item>
     </plurals>
     <plurals name="in_num_days">
@@ -44,7 +44,7 @@
         <item quantity="one">1 мин. назад</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">%d ч. назад</item>
+        <item quantity="other">%d часа(ов) назад</item>
         <item quantity="one">1 час назад</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
@@ -52,15 +52,15 @@
         <item quantity="one">вчера</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">через %d с.</item>
-        <item quantity="one">через 1 с.</item>
+        <item quantity="other">через %d сек.</item>
+        <item quantity="one">через 1 сек.</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">через %d мин.</item>
         <item quantity="one">через 1 мин.</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
-        <item quantity="other">через %d ч.</item>
+        <item quantity="other">через %d часа(ов)</item>
         <item quantity="one">через 1 час</item>
     </plurals>
     <plurals name="abbrev_in_num_days">

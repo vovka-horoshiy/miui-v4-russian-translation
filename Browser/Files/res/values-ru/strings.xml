@@ -384,8 +384,8 @@
   <string name="dump_display_tree">Дамп Display дерева в файл</string>
   <string name="pref_reading_mode_enabled_title">Режим чтения</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript должен быть включен</string>
-  <string name="pref_developer_options">Настройки разработчика</string>
-  <string name="pref_developer_options_summary">Настройки для отладки или сообщения об ошибке</string>
+  <string name="pref_developer_options">Для разработчиков</string>
+  <string name="pref_developer_options_summary">Настройки отладки или сообщить об ошибке</string>
   <string name="add_xiaomi_account_warning">Сначала войдите в аккаунт Xiaomi</string>
   <string name="report_reading_mode_issue">Сообщить о проблеме в режиме чтения разработчикам MIUI</string>
   <string name="warning">Внимание!</string>

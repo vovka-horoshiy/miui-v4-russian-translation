@@ -637,5 +637,5 @@
   <string name="save_photo_progress">Сохранение фото...</string>
   <string name="edit_photo">Редактировать фото</string>
   <string name="edit_hint">Изменить</string>
-  <string name="date_picker_label">Напомнить за три дня до день рождения</string>
+  <string name="date_picker_label">Напомнить за три дня и в день рождения</string>
 </resources>

@@ -127,7 +127,7 @@
     <string name="auto_backup_setting">Настройки</string>
     <string name="auto_backup_open">Автобэкап</string>
     <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
-    <string name="auto_backup_date">Частота</string>
+    <string name="auto_backup_date">Периодичность</string>
     <string name="auto_backup_time">Время</string>
     <string name="auto_backup_choose_title">Настройки</string>
     <string name="auto_backup_choose">Элементы</string>

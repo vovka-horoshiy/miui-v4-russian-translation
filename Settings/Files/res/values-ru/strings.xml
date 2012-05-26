@@ -632,7 +632,7 @@
     <string name="brightness">Яркость</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="screen_timeout">Отключать экран</string>
-    <string name="screen_timeout_summary">После %1$s бездействия</string>
+    <string name="screen_timeout_summary">Через %1$s бездействия</string>
     <string name="wallpaper_settings_title">Обои</string>
     <string name="wallpaper_settings_fragment_title">Установка обоев</string>
     <string name="screensaver_settings_title">Заставка</string>

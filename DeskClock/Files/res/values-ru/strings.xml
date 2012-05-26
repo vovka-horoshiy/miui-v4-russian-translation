@@ -105,7 +105,7 @@
   <string name="alarm_duration">Время сигнала и интервала</string>
   <string name="alarm_duration_title">Интервал повтора</string>
   <string name="alarm_count">Количество повторов</string>
-  <string name="alarm_duration_summary">Повторение сигнала через каждые %d мин.</string>
+  <string name="alarm_duration_summary">Повтор сигнала через %d мин.</string>
   <string name="alarm_count_summary">, %d раз(а)</string>
   <string name="alarm_count_never_summary">, до отключения вручную.</string>
   <item type="string" name="APKTOOL_DUMMY_006a">false</item>

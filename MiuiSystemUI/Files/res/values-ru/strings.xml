@@ -196,7 +196,7 @@
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
   <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
   <string name="settings_notification_icon">Уведомления в строке состояния</string>
-  <string name="settings_auto_dismiss_screenshot_notification">Автоудаление уведомления о снятии скриншота</string>
+     <string name="settings_screenshot_notification_disabled">Отключить уведомление о снятии скриншота</string>
   <string name="settings_expanded_view">Настройки выдвижения</string>
   <string name="settings_expandable_under_keyguard">На экране блокировки</string>
   <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
@@ -214,8 +214,8 @@
   <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>
   <string name="notification_icon_filter_list_empty_summary">Список пуст</string>
   <string name="notification_icon_filter_other_list">Список приложений</string>
-  <string name="notification_icon_filter_menu_item_show">Показать уведомления для данного приложения</string>
-  <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления для этого приложения</string>
+  <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения</string>
+  <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения</string>
   <string name="settings_separator">,</string>
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="notification_vibrate_hint">Уведомление</string>

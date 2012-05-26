@@ -56,6 +56,7 @@
   <string name="separatorJoinAggregateAll">Все контакты</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
   <string name="deleteConfirmation_title">Предупреждение!</string>
+  <string name="delete">Удалить</string>
   <string name="menu_set_ring_tone">Задать рингтон</string>
   <string name="menu_redirect_calls_to_vm">Только голос. почта</string>
   <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списке контактов.</string>
@@ -84,8 +85,7 @@
   <string name="noAccounts">Для создания групп нужен аккаунт</string>
   <string name="noMatchingContacts">Подходящие контакты не найдены</string>
   <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
-  <string name="savingContact">Контакт сохраняется...</string>
-  <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
+  <string name="savingDisplayGroups">Сохранение настроек отображения…</string>
   <string name="contactSavedToast">Контакт сохранен</string>
   <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
   <string name="groupSavedToast">Группа сохранена</string>
@@ -536,6 +536,7 @@
   <string name="select_photo_from_photo_package">Выбрать аватару</string>
   <string name="select_new_photo_from_photo_package">Выбрать аватару</string>
   <string name="photo_package_activity_title">Аватары</string>
+  <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
   <string name="callrecordview_menu_show_title">Настройка отображения</string>
   <string name="callrecordview_menu_show_all">Все</string>
   <string name="callrecordview_menu_show_missed">Пропущенные</string>
@@ -636,4 +637,5 @@
   <string name="save_photo_progress">Сохранение фото...</string>
   <string name="edit_photo">Редактировать фото</string>
   <string name="edit_hint">Изменить</string>
+  <string name="date_picker_label">Напомнить за три дня до день рождения</string>
 </resources>

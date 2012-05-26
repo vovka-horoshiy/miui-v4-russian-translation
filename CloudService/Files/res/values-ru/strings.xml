@@ -99,7 +99,7 @@
     <string name="logoff_account_label">Удалить</string>
     <string name="basic_info">Общая информация</string>
     <string name="sync_info">Синхронизация</string>
-    <string name="login">Login</string>
-    <string name="next">Next</string>
-    <string name="prev">Back</string>
+    <string name="login">Вход</string>
+    <string name="next">Далее</string>
+    <string name="prev">Назад</string>
 </resources>

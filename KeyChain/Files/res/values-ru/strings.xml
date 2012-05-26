@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Связка ключей</string>
-    <string name="title_no_certs">Сертификаты не найдены</string>
-    <string name="title_select_cert">Выберите сертификат</string>
-    <string name="requesting_application">Приложение %s запросило сертификат. Выбор сертификата разрешит приложению возможность использовать это идентично с серверами сейчас и в будущем.</string>
-    <string name="requesting_server">Приложение определило запрашивающий сервер как %s, но вы должны предоставить приложению доступ к сертификату, если вы ему доверяете.</string>
-    <string name="install_new_cert_message">Вы можете установить сертификаты с файла PKCS#12 с расширением %1$s или %2$s, расположенных во внешней памяти.</string>
-    <string name="install_new_cert_button_label">Установить</string>
-    <string name="allow_button">Разрешить</string>
-    <string name="deny_button">Запретить</string>
+    <string name="app_name">РЎРІСЏР·РєР° РєР»СЋС‡РµР№</string>
+    <string name="title_no_certs">РЎРµСЂС‚РёС„РёРєР°С‚С‹ РЅРµ РЅР°Р№РґРµРЅС‹</string>
+    <string name="title_select_cert">Р’С‹Р±РµСЂРёС‚Рµ СЃРµСЂС‚РёС„РёРєР°С‚</string>
+    <string name="requesting_application">РџСЂРёР»РѕР¶РµРЅРёРµ %s Р·Р°РїСЂРѕСЃРёР»Рѕ СЃРµСЂС‚РёС„РёРєР°С‚. Р’С‹Р±РѕСЂ СЃРµСЂС‚РёС„РёРєР°С‚Р° СЂР°Р·СЂРµС€РёС‚ РїСЂРёР»РѕР¶РµРЅРёСЋ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЌС‚Рѕ РёРґРµРЅС‚РёС‡РЅРѕ СЃ СЃРµСЂРІРµСЂР°РјРё СЃРµР№С‡Р°СЃ Рё РІ Р±СѓРґСѓС‰РµРј.</string>
+    <string name="requesting_server">РџСЂРёР»РѕР¶РµРЅРёРµ РѕРїСЂРµРґРµР»РёР»Рѕ Р·Р°РїСЂР°С€РёРІР°СЋС‰РёР№ СЃРµСЂРІРµСЂ РєР°Рє %s, РЅРѕ РІС‹ РґРѕР»Р¶РЅС‹ РїСЂРµРґРѕСЃС‚Р°РІРёС‚СЊ РїСЂРёР»РѕР¶РµРЅРёСЋ РґРѕСЃС‚СѓРї Рє СЃРµСЂС‚РёС„РёРєР°С‚Сѓ, РµСЃР»Рё РІС‹ РµРјСѓ РґРѕРІРµСЂСЏРµС‚Рµ.</string>
+    <string name="install_new_cert_message">Р’С‹ РјРѕР¶РµС‚Рµ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРµСЂС‚РёС„РёРєР°С‚С‹ СЃ С„Р°Р№Р»Р° PKCS#12 СЃ СЂР°СЃС€РёСЂРµРЅРёРµРј %1$s РёР»Рё %2$s, СЂР°СЃРїРѕР»РѕР¶РµРЅРЅС‹С… РІРѕ РІРЅРµС€РЅРµР№ РїР°РјСЏС‚Рё.</string>
+    <string name="install_new_cert_button_label">РЈСЃС‚Р°РЅРѕРІРёС‚СЊ</string>
+    <string name="allow_button">Р Р°Р·СЂРµС€РёС‚СЊ</string>
+    <string name="deny_button">Р—Р°РїСЂРµС‚РёС‚СЊ</string>
 </resources>

@@ -11,6 +11,7 @@
 %1$s"</string>
   <string name="backup_theme_progress_message">Бэкап…</string>
   <string name="backup_theme_success_message">Тема сохранена</string>
+  <string name="backup_theme_name">Моя сохраненная тема</string>
   <string name="theme_description_title_default">По-умолчанию</string>
   <string name="theme_description_title_customized">Настройка</string>
   <string name="component_category_title">Редактировать</string>
@@ -60,4 +61,6 @@
   <string name="title_local">Локально</string>
   <string name="title_online">Онлайн</string>
   <string name="title_component">Компоненты</string>
+  <string name="title_system_resource">Системные ресурсы</string>
+  <string name="title_download_resource">Загруженные ресурсы</string>
 </resources>

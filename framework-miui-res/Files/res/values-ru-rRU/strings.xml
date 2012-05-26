@@ -436,4 +436,9 @@
     <string name="android_find_on_page">@android:string/find_on_page</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
+    <string name="android_lockscreen_access_pattern_start">@android:string/lockscreen_access_pattern_start</string>
+    <string name="android_lockscreen_access_pattern_cleared">@android:string/lockscreen_access_pattern_cleared</string>
+    <string name="android_lockscreen_access_pattern_cell_added">@android:string/lockscreen_access_pattern_cell_added</string>
+    <string name="android_lockscreen_access_pattern_detected">@android:string/lockscreen_access_pattern_detected</string>
+    <string name="solar_calendar">Григорианский календарь</string>
 </resources>

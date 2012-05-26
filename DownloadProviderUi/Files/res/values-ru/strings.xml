@@ -12,6 +12,7 @@
     <string name="download_running">В процессе</string>
     <string name="download_success">Завершен</string>
     <string name="download_error">Ошибка</string>
+    <string name="download_error_insufficient_space">Недостаточно места</string>
     <string name="dialog_title_not_available">Внимание!</string>
     <string name="dialog_failed_body">Повторить загрузку или удалить её из очереди?</string>
     <string name="dialog_title_queued_body">Файл недоступен</string>
@@ -63,4 +64,6 @@
     <string name="pref_title_max_bytes_limit">Лимит размера</string>
     <string name="pref_summary_max_bytes_limit_format">Предупреждать при превышении размера файла: %s</string>
     <string name="pref_dialog_title_max_bytes_limit">Превышение размера файла</string>
+    <string name="prefDefault_max_bytes_limit">1048576</string>
+    <string name="might_lead_to_mobile_charge">"После отмены, не будет никакой подсказки загрузки от сети оператора. Это может привести к увеличению стоимости трафика."</string>
 </resources>

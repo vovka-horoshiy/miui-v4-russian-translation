@@ -2,18 +2,18 @@
 <resources>
     <plurals name="Nminutes">
         <item quantity="other">%d мин.</item>
-        <item quantity="one">1 минута</item>
+        <item quantity="one">1 мин.</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">%d мин.</item>
         <item quantity="one">1 мин.</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d ч.</item>
+        <item quantity="other">%d часа(ов)</item>
         <item quantity="one">за 1 час</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d дн.</item>
+        <item quantity="other">%d дня(ей)</item>
         <item quantity="one">1 день</item>
     </plurals>
     <plurals name="weekN">

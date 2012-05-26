@@ -14,6 +14,8 @@
     <string name="one_usercrt">один пользовательский сертификат</string>
     <string name="one_cacrt">один сертификат центра сертификации</string>
     <string name="n_cacrts">Сертификатов центра сертификации: %d</string>
+    <string name="one_wapi_ascrt">один WAPI AS сертификат</string>
+    <string name="one_wapi_usercrt">один WAPI пользовательский сертификат</string>
     <string name="password_error">Введите правильный пароль.</string>
     <string name="password_empty_error">Введите пароль.</string>
     <string name="name_empty_error">Введите название.</string>

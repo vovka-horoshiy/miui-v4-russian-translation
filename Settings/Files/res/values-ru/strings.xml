@@ -1686,7 +1686,7 @@
     <string name="volume_category_title">Громкость</string>
     <string name="vibrate_category_title">Вибрация</string>
     <string name="vibrate_in_normal_title">В нормальном режиме</string>	
-	    <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
+	<string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
 Credential storage might not enable"</string>
     <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
 Please check validity of certificates"</string>
@@ -1702,4 +1702,5 @@ Please check validity of certificates"</string>
     <string name="search_description">Настройки поиска</string>
 	<string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
     <string name="frequently_fragment_tempty">Часто используемые элементы будут отображаться здесь</string>
+    <string name="frequently_fragment_delete">Удалить</string>
 </resources>

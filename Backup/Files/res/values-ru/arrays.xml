@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Параметры Wi-Fi</item>
+        <item>Настройки Wi-Fi</item>
         <item>Все приложения</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Галерея</item>
-        <item>Музыка</item>
-        <item>Диктофон</item>
         <item>Браузер</item>
-        <item>Фотографии</item>
         <item>Приложение Файлы</item>
+        <item>Галерея</item>
+        <item>Безопасность</item>
+        <item>Камера</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакты</item>
         <item>Журнал вызовов</item>
         <item>Сообщения</item>
-        <item>Сообщения MMS</item>
+        <item>Сообщения ММС</item>
         <item>Настройки системы</item>
         <item>Настройки Wi-Fi</item>
         <item>Рабочий стол</item>
         <item>Будильник</item>
         <item>Заметки</item>
         <item>Черный список</item>
-        <item>Текущая тема</item>
-        <item>Безопасность</item>
+        <item>Аккаунты</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>(Данные)</item>
-        <item>(Приложение)</item>
-        <item>(Приложения и данные)</item>
+        <item>Данные</item>
+        <item>Приложения</item>
+        <item>Приложения и данные</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Контакты</item>

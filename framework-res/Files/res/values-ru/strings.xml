@@ -1252,4 +1252,6 @@
     <string name="sending">Отправка...</string>
     <string name="launchBrowserDefault">Запустить браузер?</string>
     <string name="SetupCallDefault">Принять вызов?</string>
+    <string name="memory_in_phone">Внутренняя память</string>
+    <string name="memory_in_sdcard">Внешняя память</string>
 </resources>

@@ -5,11 +5,12 @@
         <item>Все приложения</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Браузер</item>
-        <item>Файл-менеджер</item>
         <item>Галерея</item>
-        <item>Безопасность</item>
-        <item>Камера</item>
+        <item>Музыка</item>
+        <item>Диктофон</item>
+        <item>Браузер</item>
+        <item>Фотографии</item>
+        <item>Приложение Файлы</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакты</item>
@@ -22,7 +23,8 @@
         <item>Будильник</item>
         <item>Заметки</item>
         <item>Черный список</item>
-        <item>Аккаунты</item>
+        <item>Текущая тема</item>
+        <item>Безопасность</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Данные)</item>

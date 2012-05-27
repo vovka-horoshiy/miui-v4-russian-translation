@@ -27,7 +27,7 @@
     <string-array name="app_type_desc">
         <item>(Данные)</item>
         <item>(Приложение)</item>
-        <item>(Приложения и данные)</item>
+        <item>(Приложение и данные)</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Контакты</item>

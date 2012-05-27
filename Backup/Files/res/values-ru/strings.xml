@@ -9,7 +9,7 @@
     <string name="backup_empty">Пусто</string>
     <string name="backup_items_sysdata_tailer">" - системные данные, "</string>
     <string name="backup_items_app_tailer">" - данные приложений "</string>
-    <string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
+    <string name="backup_failed">Создание бэкапа не удалось, попробуйте еще раз</string>
     <string name="backup_recently">(Последний)</string>
     <string name="sdcard_unmounted">SD-карта недоступна</string>
     <string name="backup_progress">Бэкап...</string>
@@ -46,8 +46,8 @@
     <string name="backup_delete">Удалить</string>
     <string name="findlost_contact">Найти удаленый контакт(ы)</string>
     <string name="findlost_contact_online">Онлайн восстановление контактов</string>
-    <string name="cloud_backup_login">Войти в MIUI</string>
-    <string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
+    <string name="cloud_backup_login">Войти</string>
+    <string name="cloud_backup_hint">Вы должны войти в систему</string>
     <string name="cloud_backup_window_title">Облако</string>
     <string name="cloud_restore_window_title">Облачное восстановление</string>
     <string name="cloud_restore_title">Восстановление</string>
@@ -89,9 +89,9 @@
     <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
     <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
     <string name="task_service_not_launched">Сервис не запустился, ждите!</string>
-    <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено.
-Нажмите кнопку OK, чтобы удалить эту резервную копию"</string>
-    <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено.
+    <string name="task_local_backup_cancel_dialog">"Процесс бэкапа не завершен.
+Нажмите кнопку OK, чтобы удалить файлы этого бэкапа"</string>
+    <string name="task_cloud_backup_cancel_dialog">"Процесс бэкапа не завершен.
 Нажмите кнопку OK, чтобы отменить незавершенную задачу"</string>
     <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
 Это может привести к потере данных!"</string>
@@ -103,10 +103,10 @@
     <string name="sc_network_unavailable">Сеть недоступна</string>
     <string name="sc_bad_request">Ошибочный запрос</string>
     <string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
-    <string name="sc_service_unavailable">Возможно сервис недоступен</string>
+    <string name="sc_service_unavailable">Возможно, сервис недоступен</string>
     <string name="sc_unauthorized">Сертификация не действительна</string>
-    <string name="sc_request_timeout">Тайм-аут запроса</string>
-    <string name="sc_precondition_failed">Ваш акккаунт Xiaomi не связан с любым адресом электронной почты</string>
+    <string name="sc_request_timeout">Время истекло</string>
+    <string name="sc_precondition_failed">Ваш акккаунт Xiaomi не связан ни с одним e-mail</string>
     <string name="sc_internal_server_error">Внутренняя ошибка сервера</string>
     <string name="sc_others">Исключение программы</string>
     <string name="succeed">Успешно завершено</string>
@@ -118,7 +118,7 @@
     <string name="cancel_backup">Отмена</string>
     <string name="restore_contact">Внимание!</string>
     <string name="restore_contact_content">При восстановлении контактов может произойти их дублирование, продолжить?
-Примечание: Позже вы можете объединить дубликаты"</string>
+Примечание: позже вы можете объединить дубликаты"</string>
     <string name="progress_restore_hint">"Восстановление... "</string>
     <string name="cancel_restore">Отмена</string>
     <string name="local_select_sysdata">Настройки системы</string>
@@ -127,7 +127,7 @@
     <string name="auto_backup_setting">Настройки</string>
     <string name="auto_backup_open">Автобэкап</string>
     <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
-    <string name="auto_backup_date">Частота</string>
+    <string name="auto_backup_date">Периодичность</string>
     <string name="auto_backup_time">Время</string>
     <string name="auto_backup_choose_title">Настройки</string>
     <string name="auto_backup_choose">Элементы</string>
@@ -151,7 +151,7 @@
     <string name="cloud_item_info_summary">" (Локально : %1$s | Онлайн : %2$s)"</string>
     <string name="total_num">Всего %d записей</string>
     <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
-Вы можете восстановить %s в Бэкап"</string>
+Вы можете восстановить %s в приложении Бэкап"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Включите телефон с контактами
 
 2.\u0009Установите MiTalk и войдите в него.

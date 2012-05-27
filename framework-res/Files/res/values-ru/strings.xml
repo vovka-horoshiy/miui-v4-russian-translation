@@ -194,11 +194,11 @@
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">...</string>
-    <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
+    <string name="mmiError">Ошибка подключения</string>
     <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
-    <string name="serviceEnabled">Служба включена.</string>
+    <string name="serviceEnabled">Служба включена</string>
     <string name="serviceEnabledFor">Служба подключена для:</string>
-    <string name="serviceDisabled">Служба отключена.</string>
+    <string name="serviceDisabled">Служба отключена</string>
     <string name="serviceRegistered">Регистрация пройдена успешно.</string>
     <string name="serviceErased">Удаление выполнено успешно.</string>
     <string name="passwordIncorrect">Неверный пароль.</string>
@@ -1220,7 +1220,7 @@
     <string name="data_usage_warning_body">Проверить трафик и настройки</string>
     <string name="data_usage_3g_limit_title">Передача данных 2G/3G отключена</string>
     <string name="data_usage_4g_limit_title">Передача данных 4G отключена</string>
-    <string name="data_usage_mobile_limit_title">Моб. Интернет отключен</string>
+    <string name="data_usage_mobile_limit_title">Передача данных отключена</string>
     <string name="data_usage_wifi_limit_title">Передача данных через Wi-Fi отключена</string>
     <string name="data_usage_limit_body">Нажмите, чтобы включить</string>
     <string name="data_usage_3g_limit_snoozed_title">Превышен лимита трафика 2G и 3G</string>

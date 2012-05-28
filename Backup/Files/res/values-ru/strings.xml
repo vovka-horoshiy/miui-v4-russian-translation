@@ -123,12 +123,12 @@
     <string name="local_select_sysdata">Настройки системы</string>
     <string name="local_select_userapp">Приложения + данные</string>
     <string name="local_no_backup">Нет резервных копий</string>
-    <string name="auto_backup_setting">Настройка автоматического бэкапа</string>
+    <string name="auto_backup_setting">Настройки</string>
     <string name="auto_backup_open">Автобэкап</string>
     <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
     <string name="auto_backup_date">Периодичность (в днях)</string>
     <string name="auto_backup_time">Запланировать копирование</string>
-    <string name="auto_backup_choose_title">Настройки</string>
+    <string name="auto_backup_choose_title">Выберите элементы</string>
     <string name="auto_backup_choose">Выбранные элементы</string>
     <string name="auto_backup_choose_empty">Нет резервных копий</string>
     <string name="auto_backup_progress">Автобэкап...</string>

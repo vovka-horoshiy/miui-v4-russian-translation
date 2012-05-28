@@ -244,7 +244,7 @@
     <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен.</string>
     <string name="roaming_turn_it_on_button">Включить</string>
     <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга.</string>
-    <string name="roaming_reenable_title">Внимание</string>
+    <string name="roaming_reenable_title">Внимание!</string>
     <string name="networks">Выбор оператора</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
     <string name="date_and_time_settings_title">Дата и время</string>
@@ -606,7 +606,7 @@
     <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
     <string name="haptic_feedback_enable_title">Включить виброотклик</string>
     <string name="audio_record_proc_title">Подавление шума</string>
-    <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
+    <string name="volume_media_description">Мультимедиа</string>
     <string name="volume_ring_description">Рингтон и уведомления</string>
     <string name="volume_notification_description">Оповещения</string>
     <string name="volume_alarm_description">Будильник</string>
@@ -631,7 +631,7 @@
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="brightness">Яркость</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
-    <string name="screen_timeout">Отключать экран</string>
+    <string name="screen_timeout">Отключение экрана</string>
     <string name="screen_timeout_summary">Через %1$s бездействия</string>
     <string name="wallpaper_settings_title">Обои</string>
     <string name="wallpaper_settings_fragment_title">Установка обоев</string>
@@ -1119,7 +1119,7 @@
     <string name="accessibility_settings_title">Настройки специальных возможностей</string>
     <string name="accessibility_services_title">Службы</string>
     <string name="accessibility_system_title">Система</string>
-    <string name="accessibility_toggle_large_text_title">Большой текст</string>
+    <string name="accessibility_toggle_large_text_title">Крупный текст</string>
     <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
     <string name="accessibility_speak_password_title">Озвучивать пароли</string>
     <string name="accessibility_touch_exploration_title">Изучение касанием</string>
@@ -1610,7 +1610,7 @@
     <string name="back_long_press_timeout">"Задержка
 %1$.1f сек."</string>
     <string name="power_key">Кнопка включения</string>
-    <string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
+    <string name="disable_power_key_long_press_under_keyguard">Отключить на локскрине</string>
     <string name="media_button">Медиа-кнопки</string>
     <string name="preferred_media_app_summary">Выберите свой плеер</string>
     <string name="no_media_button_receiver">Нет</string>
@@ -1641,7 +1641,7 @@
     <string name="battery_settings_title">Настройки батареи</string>
     <string name="battery_indicator_style">Стиль индикатора</string>
     <string name="power_usage_history">Использование батареи</string>
-    <string name="default_usb_mode">Тип подключения по-умолчанию</string>
+    <string name="default_usb_mode">Тип подключения по умолчанию</string>
     <string name="screen_timeout_title">Отключать экран</string>
     <string name="unlock_set_unlock_summary">Включите блокировку экрана, чтобы выбрать тип блокировки</string>
     <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
@@ -1649,7 +1649,7 @@
     <string name="lock_screen_unlock_show_summary">"Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана"</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
-	<string name="security_privacy_settings_title">Безопасность и конфиденциальность</string>
+	<string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
     <string name="unlock_set_enter_system">Прямой доступ</string>
     <string name="unlock_set_enter_system_summary">"При использовании этой функции экран блокировки будет отключен"</string>

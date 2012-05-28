@@ -584,7 +584,7 @@
   <string name="deselect_all">Ничего</string>
   <string name="select_none">Выберите хотя бы 1 контакт</string>
   <string name="toast_finish_delete_call_log">Записи удалены</string>
-  <string name="confirm_delete_selected_call_log">Удалить эти записи из журнала вызовов (%1d)?</string>
+  <string name="confirm_delete_selected_call_log">Удалить выбранные записи?</string>
   <string name="calllog_menu_blacklist">Добавить в черный список</string>
   <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
   <string name="calllog_menu_send_sms">Послать SMS</string>

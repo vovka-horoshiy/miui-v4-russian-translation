@@ -6,7 +6,11 @@
         <item>Показывать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Только EvDo</item>
         <item>CDMA без EvDo</item>
         <item>CDMA / EvDo (автоматический режим)</item>
@@ -90,7 +94,7 @@
     <string-array name="dtmf_tone_entries">
         <item>Обычные</item>
         <item>Длинные</item>
-    </string-array>
+	</string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Всегда</item>
         <item>В беззвучном режиме</item>

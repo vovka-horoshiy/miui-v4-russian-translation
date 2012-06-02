@@ -20,7 +20,7 @@
     <favorite launcher:className="com.android.systemui.TorchActivity" launcher:packageName="com.android.systemui" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.huawei.android.FMRadio.FMRadioActivity" launcher:packageName="com.huawei.android.FMRadio" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.miui.compass.CompassActivity" launcher:packageName="com.miui.compass" launcher:container="1" launcher:x="0" launcher:y="0" />
-    <favorite launcher:className="com.android.monitor.MainActivity" launcher:packageName="com.android.monitor" launcher:container="1" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.wali.miui.networkassistant.NetworkAssistantActivity" launcher:packageName="com.wali.miui.networkassistant" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.miui.backup.BackupActivity" launcher:packageName="com.miui.backup" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.lbe.security.ui.MainActivity" launcher:packageName="com.lbe.security.miui" launcher:container="1" launcher:x="0" launcher:y="0" />
 	<favorite launcher:className="com.android.providers.downloads.ui.DownloadList" launcher:packageName="com.android.providers.downloads.ui" launcher:container="1" launcher:x="0" launcher:y="0" />

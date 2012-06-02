@@ -15,10 +15,10 @@
   <string name="menu_traffic_adjust">Регулировка трафика</string>
   <string name="menu_traffic_settings">Настройки трафика</string>
   <string name="powered_by">Техническая поддержка: WALL-E</string>
-  <string name="pref_traffic_settings">Настройки трафика</string>
+  <string name="pref_traffic_settings">Настройки</string>
   <string name="pref_traffic_adjust_title">Регулировка трафика</string>
   <string name="pref_traffic_daily_limit_settings">Настройки дневного лимита</string>
-  <string name="pref_connect_settings_title">Настройки проложения Монитор</string>
+  <string name="pref_connect_settings_title">Настройки передачи данных</string>
   <string name="pref_connect_settings_notify_in_statusbar">Показывать уведомления в панели уведомлений</string>
   <string name="pref_connect_settings_exceed_limit">Отключить передачу данных</string>
   <string name="pref_connect_settings_exceed_limit_hint">Сообщить и отключить Интернет, когда превышен ежемесячный лимит трафика</string>
@@ -72,7 +72,7 @@
   <string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
   <string name="control_app_internet">Контроль за использованием сети</string>
   <string name="fire_rule_program_list">Список приложений</string>
-  <string name="menu_new_install_app_settings">Настройки по умолчанию для новых установленных приложений</string>
+  <string name="menu_new_install_app_settings">Настройки по умолчанию</string>
   <string name="traffic_suffix">Трафик</string>
   <string name="traffic_suffix_with_uint">Трафик (МБ)</string>
   <string name="app_detail_title">Инф. о прил.</string>
@@ -84,7 +84,7 @@
   <string name="stop_app_button">Закрыть</string>
   <string name="detail_app_button">Инф. о прил.</string>
   <string name="traffic_already_used">Использовано</string>
-  <string name="traffic_remain">Оставшийся</string>
+  <string name="traffic_remain">Осталось</string>
   <string name="traffic_exceed">Превышено</string>
   <string name="apply_rules_failed_known">OK</string>
   <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>

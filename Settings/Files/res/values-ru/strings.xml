@@ -1703,4 +1703,21 @@ Please check validity of certificates"</string>
 	<string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
     <string name="frequently_fragment_tempty">Часто используемые элементы будут отображаться здесь</string>
     <string name="frequently_fragment_delete">Удалить</string>
+	<string name="show_fc">Показывать FC</string>
+    <string name="show_fc_summary">Показывать диалог FC для приложений</string>
+    <string name="factory_reset_summary">Вы можете удалить либо личные данные, либо установленные программы и отформатировать SD-карту, чтобы вернуться к заводским установкам</string>
+    <string name="erase_sure">Удалить</string>
+    <string name="erase_personal_data">Личные данные</string>
+	<string name="erase_personal_data_description">Включая аккаунты, контакты, журналы вызовов и другие данные</string>
+	<string name="erase_optional">Опциональное удаление</string>
+	<string name="erase_application">Удалить приложения</string>
+	<string name="erase_application_description">Удалить установленные приложения</string>
+	<string name="confirm_erase">Подтверждение удаления</string>
+	<string name="master_clear_personal_data">Eдалить личные данные?\nВнимание, данная операция необратима</string>	
+    <string name="master_clear_personal_data_application">Eдалить личные данные и установленные приложения?\nВнимание, данная операция необратима</string>	
+    <string name="master_clear_personal_data_sdcard">Eдалить личные данные и отформатировать SD-карту?\nВнимание, данная операция необратима</string>	
+    <string name="master_clear_all">Dернуться к заводским установкам?\nВнимание, данная операция необратима</string>	
+    <string name="master_clear_erase_application_progress">Удаление приложений</string>		
+    <string name="bluetooth_default_name">Huawei Honor</string>	
+    <string name="bluetooth_profile_name">"%1$s's Xiaomi Phone"</string>
 </resources>

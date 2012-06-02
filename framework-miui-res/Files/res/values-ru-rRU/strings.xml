@@ -425,4 +425,5 @@
     <string name="text_pastelist">Буфер обмена</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
+    <string name="solar_calendar">Григорианский календарь</string>
 </resources>

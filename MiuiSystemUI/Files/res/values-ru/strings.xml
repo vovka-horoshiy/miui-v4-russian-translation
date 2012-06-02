@@ -1,34 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
-  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-  <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
-  <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-  <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
-  <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
-  <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-  <string name="status_bar_toggle_flight_mode_action">com.android.phone/com.android.phone.Settings</string>
-  <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
-  <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_network_type_action">com.android.phone/.Settings</string>
-  <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-  <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-  <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
+  <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_label">Графический интерфейс системы</string>
   <string name="status_bar_clear_all_button">Очистить</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>
-  <string name="status_bar_recent_remove_item_title">Удаление из списка</string>
+  <string name="status_bar_recent_remove_item_title">Удалить из списка</string>
   <string name="status_bar_recent_inspect_item_title">О приложении</string>
-  <string name="status_bar_no_recent_apps">Нет данных</string>
+  <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
-  <string name="status_bar_recent_clear_result">"Освобождено: %1$s
-Доступно: %2$s</string>
+  <string name="status_bar_recent_clear_result">"Освобождено %1$s памяти.
+Сейчас доступно: %2$s"</string>
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
-  <string name="status_bar_ongoing_events_title">Текущие</string>
+  <string name="status_bar_ongoing_events_title">Постоянные</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
   <string name="battery_low_title">Подключите зарядное устройство</string>
   <string name="battery_low_subtitle">Батарея разряжена</string>
@@ -40,12 +24,11 @@
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">Режим полета</string>
   <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
-  <string name="status_bar_settings_mute_label">Отключено</string>
+  <string name="status_bar_settings_mute_label">Без звука</string>
   <string name="status_bar_settings_auto_brightness_label">Автоматически</string>
   <string name="status_bar_settings_notifications">Уведомления</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
-  <string name="status_bar_network_name_separator">"
-"</string>
+  <string name="status_bar_network_name_separator">" "</string>
   <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
   <string name="status_bar_use_physical_keyboard">Использовать физическую клавиатуру</string>
@@ -151,7 +134,7 @@
   <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
   <string name="mount_storage">Подключить как диск</string>
   <string name="dismount_storage">Только зарядка</string>
-  <string name="move_data_to_sdcard_title">Внимание!</string>
+  <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
   <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
   <string name="user_guide_for_notification">При получении нового уведомления, можно перетащить панель уведомлений вниз для получения дополнительных сведений</string>
   <string name="user_guide_for_toggle">Список переключателей может прокручиваться по горизонтали</string>
@@ -172,22 +155,22 @@
   <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
   <string name="status_bar_toggle_rotate">Поворот</string>
-  <string name="status_bar_toggle_screen_button">Экранные кнопки</string>
+  <string name="status_bar_toggle_screen_button">Скриншот</string>
   <string name="status_bar_toggle_screenshot">Скриншот</string>
   <string name="status_bar_toggle_shutdown">Выключение</string>
   <string name="status_bar_toggle_sync">Синхронизация</string>
   <string name="status_bar_toggle_torch">Фонарик</string>
   <string name="status_bar_toggle_vibrate">Вибрация</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="screen_rotation_freeze_message">Экран заблокирован в ландшафтном режиме</string>
-  <string name="screen_button_disabled_message">Функции кнопок на нижнем экране будут отключены. Вы можете включить их, нажав кнопки \"Домой\" и \"Питание\".</string>
-  <string name="screen_button_enabled_message">Функции кнопок на нижнем экране включены</string>
-  <string name="screen_button_notification_title">Экранные кнопки отключены</string>
-  <string name="screen_button_notification_text">"Нажмите кнопки 'Домой'+'Питание' чтобы включить"</string>
-  <string name="status_bar_style_settings">Настройки</string>
-  <string name="settings_toggle_layout_style">Стиль панели уведомлений</string>
-  <string name="settings_toggle_layout_style_compact"><font size="13">Компакт</font></string>
-  <string name="settings_toggle_layout_style_single_page"><font size="13">Полный</font></string>
+  <string name="screen_rotation_freeze_message">Locked screen rotation to landscape mode</string>
+  <string name="screen_button_disabled_message">Functions of buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\"</string>
+  <string name="screen_button_enabled_message">Functions of buttons on the lower screen are enabled</string>
+  <string name="screen_button_notification_title">Screen buttons are disabled</string>
+  <string name="screen_button_notification_text">"Pressing 'Home'+'Power' to enable"</string>
+  <string name="status_bar_style_settings">Настройки статус бара</string>
+  <string name="settings_toggle_layout_style">Стиль статус бара</string>
+  <string name="settings_toggle_layout_style_compact">Компакт</string>
+  <string name="settings_toggle_layout_style_single_page">Полный</string>
   <string name="settings_toggle_layout_style_applying">Применение стиля переключателей...</string>
   <string name="settings_toggle">Переключатели</string>
   <string name="settings_toggle_position">Выбор переключателей</string>
@@ -196,7 +179,6 @@
   <string name="settings_toggle_position_reset">Сбросить переключатели</string>
   <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
   <string name="settings_notification_icon">Уведомления в строке состояния</string>
-     <string name="settings_screenshot_notification_disabled">Отключить уведомление о снятии скриншота</string>
   <string name="settings_expanded_view">Настройки выдвижения</string>
   <string name="settings_expandable_under_keyguard">На экране блокировки</string>
   <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
@@ -214,13 +196,13 @@
   <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>
   <string name="notification_icon_filter_list_empty_summary">Список пуст</string>
   <string name="notification_icon_filter_other_list">Список приложений</string>
-  <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения</string>
-  <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения</string>
+  <string name="notification_icon_filter_menu_item_show">Показать уведомления для данного приложения</string>
+  <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления для этого приложения</string>
   <string name="settings_separator">,</string>
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="notification_vibrate_hint">Уведомление</string>
   <string name="mms_vibrate_hint">Сообщение</string>
-  <string name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
+    <string name="not_all_vibrate_hint" formatted="false">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
   <string name="no_vibrate_hint">В соответствии с настройками, уведомление о входящем вызове и сообщения не будут вибрировать, включение это пункта не вызовет никакого действия</string>
   <string name="to_vibrate_settings">Настройки вибрации</string>
   <string name="camera_key_action_title">Кнопка MI</string>
@@ -264,4 +246,12 @@
   <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
   <string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
   <string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
+  <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
+  <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
+  <string name="settings_other">Другие</string>
+  <string name="settings_screenshot_notification_disabled">Откл. уведомл. о скриншоте</string>
+  <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
+  <string name="battery_indicator_style">Стиль индикатора батареи</string>
+  <string name="default_usb_mode">Тип подключения по USB</string>
+  <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
 </resources>

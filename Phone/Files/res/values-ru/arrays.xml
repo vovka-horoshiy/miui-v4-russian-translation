@@ -94,7 +94,7 @@
     <string-array name="dtmf_tone_entries">
         <item>Обычные</item>
         <item>Длинные</item>
-	</string-array>
+    </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Всегда</item>
         <item>В беззвучном режиме</item>
